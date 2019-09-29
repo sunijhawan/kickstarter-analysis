@@ -1,4 +1,4 @@
 # kickstarter-analysis
 Performing analysis on kickstarter data
 ###Challenge
-![outcomesbasedongoal](outcomesbasedongoal.png)
+![outcomesbasedongoal](/Users/sunanditanijhawan/Desktop/outcomesbasedongoal.png)
